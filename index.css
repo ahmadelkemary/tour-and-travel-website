@@ -653,7 +653,7 @@ header .search-bar-container label:hover{
 
 }
 
-@media (max-width:992px){
+@media (max-width:991px){
 
   header{
     padding:2rem;
